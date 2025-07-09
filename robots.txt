@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yourusername.github.io/acadesign-meta/sitemap.xml
+Sitemap: https://github.com/ACADesignInc/acadesign-meta/blob/main/sitemap.xml
